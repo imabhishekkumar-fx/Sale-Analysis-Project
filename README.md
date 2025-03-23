@@ -19,5 +19,5 @@ Category: The product category (e.g., Furniture, Office Supplies).
 Sub-Category: The product sub-category (e.g., Chairs, Paper).
 Product Name: The name of the product.
 Sales: The sales amount for the order.
-![Uploading image.png…]()
+
 
